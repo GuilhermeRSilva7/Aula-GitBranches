@@ -37,6 +37,7 @@ int main()
         printf("Não é uma equação do segundo grau \n");
         printf("a não pode ser 0");
                         }
+        printf ("Parabéns")
     return 0;
 }
 
