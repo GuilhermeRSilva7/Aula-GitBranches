@@ -8,7 +8,7 @@ int main()
     setlocale(LC_ALL,"");
 
     float a, b, c, DELTA, x1, x2;
-    printf("para resolucao da equacao de 2º GRAU informe o valor de a: ");
+    printf("para resolver a equacao de 2º GRAU informe o valor de a: ");
     scanf("%f",&a);
     printf("informe agora o valor de b: ");
     scanf("%f",&b);
